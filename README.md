@@ -1,5 +1,6 @@
 # My-experiments-with-turtle
 My various experiments with tutle library in python3. (Remember LOGO?)<br>
+More details at: https://docs.python.org/3/library/turtle.html <br/>
 <br/>
 Plans: <br/>
 1. lightsaber like structure.<br/>
